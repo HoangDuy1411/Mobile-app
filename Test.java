@@ -2,6 +2,6 @@ import java.util.*;
 
 public class Cau1 {
   public static void main(String[] args) {
-    System.out.println("ket qua cua ln(e):ln(e) = 1 ");
+    System.out.println("123123123123 ");
   }
 }
